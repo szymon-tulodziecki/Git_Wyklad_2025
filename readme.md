@@ -5,3 +5,5 @@ Klonowanie repozytorium SSH:
 ```
 git clone git@github.com:szymon-tulodziecki/Git_Wyklad_2025.git
 ```
+
+Zmiana na serwerze
